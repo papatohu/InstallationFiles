@@ -1,2 +1,2 @@
-java -jar backend.jar
-PAUSE
+java -jar PapatohuBackend.jar
+WAIT
