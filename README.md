@@ -8,8 +8,8 @@ Plz follow this steps to open and configure the dashboard:
 - start with the backend folder
 - execute the file "config_backend.bat" 
 - When running the file you will be asked to input some information, but you are free to skip all of it (just press Return to skip an option). When asked if the information is correct, type yes.
-- execute the file "start_backend.bat"
 - this generates a self-signed certificate. If you deploy the dashboard officially, you should use a proper ssl certifiate!
+- execute the file "start_backend.bat" to start the backend
 - after that, move to the frontend folder
 - unpack the frontend.rar to your favorite destination e.g. at Apache the htdocs folder
 - Add following lines in the "httpd-proxy.conf" file of Apache under xampp/apache/conf/extra:
