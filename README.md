@@ -55,7 +55,7 @@ Plz follow this steps to open and configure the dashboard:
   - ProxyPass //register http://localhost
   - ProxyPassReverse //register http://localhost
       
-  - In the httpd.conf at xampp/apache/conf remove the # at #LoadModule proxy_http_module modules/mod_proxy_http.so
+- In the httpd.conf at xampp/apache/conf remove the # at #LoadModule proxy_http_module modules/mod_proxy_http.so
       
 - simply start Apache
 
