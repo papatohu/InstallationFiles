@@ -11,7 +11,7 @@ Plz follow this steps to open and configure the dashboard:
 - this generates a self-signed certificate. If you deploy the dashboard officially, you should use a proper ssl certifiate!
 - execute the file "start_backend.bat" to start the backend
 - after that, move to the frontend folder
-- unpack the frontend.rar to your favorite destination e.g. at Apache the htdocs folder
+- move all files in the folder to your favorite destination e.g. at Apache the htdocs folder
 - Add following lines in the "httpd-proxy.conf" file of Apache under xampp/apache/conf/extra:
   - SSLProxyEngine on
   - ProxyRequests Off
