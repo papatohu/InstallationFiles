@@ -43,6 +43,10 @@ Plz follow this steps to open and configure the dashboard:
       ProxyPass //get/ https://localhost:8443/get/
       ProxyPassReverse //get/ https://localhost:8443/get/
       
+  - Das # entfernen bei
+#LoadModule proxy_http_module modules/mod_proxy_http.so
+in httpd.conf unter xampp/apache/conf
+      
 - simply start Apache
 
 
