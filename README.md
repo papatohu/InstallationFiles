@@ -2,6 +2,8 @@
 
 This folder contains all neccessary files to install our dashboard.
 
+You need Java 16 or higher to run the backend.
+
 Plz follow this steps to open and configure the dashboard:
 
 - download all files to your PC
