@@ -2,7 +2,7 @@
 
 This folder contains all neccessary files to install our dashboard.
 
-You need Java 16 or higher to run the backend.
+You need Java 16 or higher to run the backend and Appache (e.g. XAMPP) to run the frontend.
 
 Plz follow this steps to open and configure the dashboard:
 
